@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leghitamang
 - 👀 I’m interested in app development and designing
-- 🌱 I’m currently learning flutter, node.js and photoshop
+- 🌱 I’m currently learning Flutter, ReactJs and Adobe Xd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @leghi_tmg on instagram.
